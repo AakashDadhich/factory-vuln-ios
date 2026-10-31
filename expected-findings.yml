@@ -22,12 +22,12 @@
   path: ^Sources/Session\.swift$
 - id: md5
   stage: sast-semgrep
-  rule_id: weak-hash-md5-sha1
+  cwe: CWE-328
   min_severity: medium
   path: ^Sources/Credentials\.swift$
 - id: vulnerable-package
   stage: deps-sbom
-  cwe: CWE-22
+  rule_id: ^CVE-2023-39138$
   min_severity: high
   path: ^Package\.resolved$
 - id: mobsf-ats
