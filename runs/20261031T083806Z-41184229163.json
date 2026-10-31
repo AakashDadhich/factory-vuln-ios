@@ -1,0 +1,30 @@
+{
+  "run_id": "41184229163",
+  "mode": "check",
+  "ref": "refs/heads/main",
+  "commit": "ecb22ff8be757745116a9c75ecd6d42da07e41d6",
+  "status": "fail",
+  "counts": {
+    "critical": 0,
+    "high": 12,
+    "medium": 7,
+    "low": 1,
+    "info": 12
+  },
+  "blocking_fingerprints": [
+    "06afc3036f6463a4a653fa3bf3aeece9c13112d003cf7397fe804d6968915349",
+    "20207cc1a6b7b52f27a66ce10b47d9b9aa104b96cee59f6235aa76f47af4ae7f",
+    "24384119738261079cf559c3b2a948accf0969328ba59edb710a00ae745d478b",
+    "3497a3bb6b72e8178cbf92b6eff44e0347b36f21a1e1cee7ce12ebd0fb1af55e",
+    "746bb381d73899c666d7a45b6e93f7b86940bf9f7b4e8caa189c27e0a01a2997",
+    "87c7a77dad1781d95c7483510ea15f6705de4bddfc3a8fd1fb5100af290442a8",
+    "9a1fb127c24182f428c67f2924a62820528792be4f463c16cc4c12c5987b55e5",
+    "a0f47b3b57516f30c160d3fb64f8ff7c484cabfba47800bd8768d8f01e34ddd4",
+    "c15ed2d68d06b794508df3d3ece0e95270f250028aca8c7f87369451b1c4a1a9",
+    "c6c2847a248a2c9fef5f3dc10ccd68ebf1d461cec094efd07de1fea477ff78b9",
+    "d451bbbda231dd541ee8af54873646da2d21418711eb497f8047de3fd0e1a8f5",
+    "eee260d77f372a389c36f381ed6301305acb417b099317fb7db2fe0df77c8de3"
+  ],
+  "iteration": 0,
+  "issue": null
+}
